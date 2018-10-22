@@ -162,6 +162,7 @@ You can disable the log and configure other log output.
     config.request_timeout = 3
   end
 
+== José Mauricio
 == Author
 - {Fernando Hamasaki de Amorim (prodis)}[http://prodis.blog.br]
 
